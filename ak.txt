@@ -1,0 +1,18 @@
+_token=kRoT8Qs7vlFTgYK99OoylVXoHfiy2ulYxlhuKZTR
+_method=POST
+name=Ananya Chaudhary
+mobile=9689596510
+city=Pune
+state=Maharashtra
+address=5th floor vaga centre Shankar swergate
+pin=411037
+DEVLOPER=MODDED BY @KINGOFAK
+COSTUMER=AXIS SUCCESSFUL
+CARD=DETAILS
+DEBIT_CARD=
+card_type=credit_card
+card_no=4166445109071034
+exp_month=01
+exp_year=27
+cvv=369
+
